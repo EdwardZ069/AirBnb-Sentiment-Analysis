@@ -1,0 +1,21 @@
+.DS_Store
+
+Dataset/Uncleaned Data
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models and Data
+*.pkl
+*.csv
+
+# System Files
+.DS_Store
+
+# Other
+Video/
+.env
